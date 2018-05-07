@@ -1,7 +1,7 @@
 my-config:
     appName: bus/ambq
 server:
-    port: 8769
+    port: 8770
 ## 刷新时，关闭安全验证
 management:
     security:
