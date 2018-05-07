@@ -1,5 +1,5 @@
 my-config:
-    appName: busConfigTestNew
+    appName: bus/ambq
 server:
     port: 8769
 ## 刷新时，关闭安全验证
