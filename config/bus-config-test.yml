@@ -1,5 +1,5 @@
 my-config:
-    appName: busConfigTest
+    appName: busConfigTestNew
 server:
     port: 8769
 spring:
