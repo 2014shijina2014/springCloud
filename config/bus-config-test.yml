@@ -2,7 +2,15 @@ my-config:
     appName: busConfigTestNew
 server:
     port: 8769
+## 刷新时，关闭安全验证
+management:
+    security:
+        enabled: false
 spring:
     rabbitmq:
         host: 192.168.1.213
         port: 5672
+    cloud:
+        bus:
+            trace:
+                enabled: true
