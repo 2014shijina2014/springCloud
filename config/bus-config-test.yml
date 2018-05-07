@@ -4,5 +4,5 @@ server:
     port: 8769
 spring:
     rabbitmq:
-    host: 192.168.1.213
-    port: 5672
+        host: 192.168.1.213
+        port: 5672
