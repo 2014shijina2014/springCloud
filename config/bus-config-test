@@ -1,4 +1,8 @@
 my-config:
     appName: busConfigTest
 server:
-  port: 8769  
+    port: 8769
+spring:
+    rabbitmq:
+    host: 192.168.1.213
+    port: 5672
