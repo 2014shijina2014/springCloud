@@ -1,2 +1,4 @@
 my-config:
     appName: busConfigTest
+server:
+  port: 8769  
